@@ -49,3 +49,6 @@ The pressurized rover volume (13 m3 of living space) comes from the JAXA and Toy
 - The air verdict rescales one Saffire VI fire and treats its far-field sensor reading as the cabin average.
 
 An independent project. Not a NASA product and not endorsed by NASA.
+
+## Author
+Zhanibek, Team NZE
