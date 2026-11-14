@@ -41,10 +41,6 @@ All ten resources listed on the challenge page are used or cited: the PSI Data R
 
 The pressurized rover volume (13 m3 of living space) comes from the JAXA and Toyota pressurized rover concept, press release of 12 March 2019.
 
-## Use of AI
-
-The evidence records, the wording and the code were drafted with an AI model (Claude by Anthropic) reading the cited documents. Every record links to its source so it can be checked. Verdicts are computed by fixed rules, not by a language model. No AI-generated images, audio or video are used, and no NASA logos or mission insignia appear.
-
 ## Limits
 
 - Screening estimates for discussion. Not a safety certification of any vehicle.
