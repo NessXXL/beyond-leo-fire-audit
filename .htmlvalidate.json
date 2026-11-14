@@ -1,0 +1,9 @@
+{
+  "extends": ["html-validate:recommended"],
+  "rules": {
+    "no-inline-style": "off",
+    "multiple-labeled-controls": "off",
+    "no-redundant-for": "off",
+    "prefer-native-element": "off"
+  }
+}

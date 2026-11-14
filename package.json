@@ -1,0 +1,17 @@
+{
+  "name": "beyond-leo-fire-audit",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=22.22"
+  },
+  "description": "Static site: Beyond LEO Fire Audit (NASA Space Apps 2026)",
+  "scripts": {
+    "test": "node --test",
+    "lint:html": "html-validate index.html",
+    "check:json": "node scripts/check-json.mjs"
+  },
+  "devDependencies": {
+    "html-validate": "^11.21.1"
+  }
+}
