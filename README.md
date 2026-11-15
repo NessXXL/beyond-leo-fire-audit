@@ -50,5 +50,5 @@ The pressurized rover volume (13 m3 of living space) comes from the JAXA and Toy
 
 An independent project. Not a NASA product and not endorsed by NASA.
 
-## Author
-Zhanibek, Team NZE
+## Authors
+Zhanibek, Elzhan, Nurmukhammad
